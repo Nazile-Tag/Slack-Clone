@@ -27,7 +27,7 @@ function Sidebar() {
                     <h2>WE ARE CODING</h2>
                     <h3>
                         <FiberManualRecordIcon />
-                        Nazile Tag
+                        {user.displayName}
                     </h3>
                 </SidebarInfo>
                 <CreateIcon />
